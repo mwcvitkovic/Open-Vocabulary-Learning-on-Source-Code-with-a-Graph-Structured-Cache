@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+*.py[cod]
+*.o
+*.swp
+.ipynb_checkpoints/
+.idea/
+.hypothesis/
+temp/
+s3shared/
+experiments/aws_config.py
