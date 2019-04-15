@@ -1,7 +1,7 @@
 # What is this library?
-This library contains the code needed to reproduce all experiments in the paper [Deep Learning On Code With A Graph Vocabulary](http://tensorlab.cms.caltech.edu/users/anima/pubs/Deep_Learning_On_Code_with_an_Unbounded_Vocabulary.pdf).
+This library contains the code needed to reproduce all experiments in the paper [Open Vocabulary Learning on Source Code with a Graph-Structured Cache](http://arxiv.org/abs/1810.08305).
 
-It's meant to be used along with [this data preprocessing library](https://github.com/mwcvitkovic/Deep_Learning_On_Code_With_A_Graph_Vocabulary--Code_Preprocessor).
+It's meant to be used along with [this data preprocessing library](https://github.com/mwcvitkovic/Open-Vocabulary-Learning-on-Source-Code-with-a-Graph-Structured-Cache--Code-Preprocessor).
 
 # How do I run your code?
 ## Installation
